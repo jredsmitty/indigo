@@ -1,9 +1,9 @@
 # main text of home
 name: Jared Ram
-bio: 'Physics, Teaching, Engineering.'
+bio: 'Engineer, Explorer, Always Curious.'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A blog about learning and engineering
 
 # if it's an external image, update below for true
 # better with square images
@@ -39,8 +39,8 @@ email: jred.smith@live.com
 
 authors:
     jaredsmith:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+        name: Jared Smith
+        bio: Engineer, Explorer, Always Curious.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: 

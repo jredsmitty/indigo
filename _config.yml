@@ -7,8 +7,8 @@ description: A blog about learning and engineering
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: 'assets/images/profile.jpg'
+external-image: true
+picture: 'jredsmitty.github.io/assets/images/profile.jpg'
 
 url: https://jredsmitty@github.io
 # your url: http://USERNAME.github.io
